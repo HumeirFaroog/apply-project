@@ -81,7 +81,7 @@ func main() {
 	r := mux.NewRouter()
 
 	objects = append(objects, Objects{
-		projectName:             "prj1",
+		ProjectName:             "prj1",
 		ProjectDescription:      "dechhvh1",
 		TokenAmount:             568,
 		AddTeamMember:           []string{"dbgfnfgng", "eee"},
