@@ -16,7 +16,7 @@ import (
 // }
 
 type Objects struct {
-	projectName             string    `json:"projectName"`
+	ProjectName             string    `json:"projectName"`
 	ProjectDescription      string    `json:"ProjectDescription"`
 	TokenAmount             int       `json:"tokenAmount"`
 	AddTeamMember           []string  `json:"addTeamMember"`
